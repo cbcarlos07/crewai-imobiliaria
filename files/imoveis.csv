@@ -1,0 +1,21 @@
+ID,Endereço,Preço,Quartos,Banheiros,Metragem,Tipo
+1,"Avenida Brasil, 456 - Rio de Janeiro",8711789,2,3,51,Apartamento
+2,"Rua dos Andradas, 303 - Porto Alegre",8893101,2,3,183,Apartamento
+3,"Avenida Paulista, 101 - São Paulo",3333068,5,3,221,Studio
+4,"Avenida Paulista, 101 - São Paulo",17752769,4,4,139,Casa
+5,"Rua SV de Novembro, 789 - Curitiba",2448737,1,1,178,Casa
+6,"Rua dos Andradas, 303 - Porto Alegre",9799686,2,2,135,Casa
+7,"Rua SV de Novembro, 789 - Curitiba",2740133,4,4,176,Sobado
+8,"Rua das Palmeiras, 123 - São Paulo",18033070,4,4,274,Studio
+9,"Avenida Brasil, 456 - Rio de Janeiro",7706086,5,4,55,Casa
+10,"Avenida Paulista, 101 - São Paulo",2606832,2,1,114,Casa
+11,"Avenida Paulista, 101 - São Paulo",9396867,2,3,194,Casa
+12,"Rua SV de Novembro, 789 - Curitiba",3335085,5,4,244,Sobado
+13,"Avenida Paulista, 101 - São Paulo",14562051,3,4,188,Apartamento
+14,"Rua dos Andradas, 303 - Porto Alegre",10433245,5,2,71,Apartamento
+15,"Rua SV de Novembro, 789 - Curitiba",16178193,3,1,229,Sobado
+16,"Rua SV de Novembro, 789 - Curitiba",8515551,3,3,117,Cobertura
+17,"Avenida Paulista, 101 - São Paulo",728434,2,2,128,Studio
+18,"Rua dos Andradas, 303 - Porto Alegre",4756351,2,2,152,Casa
+19,"Rua das Palmeiras, 123 - São Paulo",5891793,3,3,215,Casa
+20,"Avenida Paulista, 101 - São Paulo",14299215,2,2,211,Casa
